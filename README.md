@@ -13,13 +13,13 @@ and then
 
 For example:
 
-`git clone https://github.com/paintenzero/cflappy.git cflappy
+```git clone https://github.com/paintenzero/cflappy.git cflappy
 cd cflappy
 mkdir build
 cd build
 cmake ..
 make
-./cflappy`
+./cflappy```
 
 Dependencies
 ============
